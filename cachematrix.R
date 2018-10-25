@@ -1,5 +1,6 @@
-## Put comments here that give an overall description of what your
-## functions do
+## This file contains two functions: makeCacheMatrix which return a list of functions,
+## and cacheSolve, which inverse the input matrix calling sub-functions from makeCacheMatrix
+
 
 ## This function creates a special "matrix" object that can cache its inverse
 
